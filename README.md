@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I’m @vxtruog  
+🎓 I’m a student passionate about Embedded Systems  
+💡 Experience: C/C++ language, Assembly, Linux Kernel, MCU  
+🔗 Email: [truongvx.2001@gmail.com](mailto:truongvx.2001@gmail.com)
+
 
 <!--
 **vxtruog/vxtruog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
