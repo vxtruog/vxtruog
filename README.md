@@ -1,6 +1,7 @@
 👋 Hi, I’m @vxtruog  
 🎓 I’m a student passionate about Embedded Systems  
-💡 Experience: C/C++ language, Assembly, Linux Kernel, MCU  
+⚡ Programing languages: C/C++, Assembly, Python  
+💡 Experience: Linux Kernel, MCU  
 🔗 Email: [truongvx.2001@gmail.com](mailto:truongvx.2001@gmail.com)
 
 
