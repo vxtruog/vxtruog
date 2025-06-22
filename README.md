@@ -1,8 +1,9 @@
 👋 Hi, I’m @vxtruog  
 🎓 I’m a student passionate about Embedded Systems and Artificial Intelligence.  
-⚡ Programing languages: C/C++, Assembly, Python, Latex.  
+✨ Programing languages: C/C++, Assembly, Python.  
 💡 Experience in Embedded Systems: ARM-A, AVR.  
 💡 Experience in Artificial Intelligence: Neural Network.  
+⚡ Additional skills: GCC, Latex.  
 🔗 Email: [truongvx.2001@gmail.com](mailto:truongvx.2001@gmail.com)
 
 
