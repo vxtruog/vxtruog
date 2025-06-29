@@ -3,7 +3,7 @@
 ✨ Programing languages: C/C++, Assembly, Python.  
 💡 Experience in Embedded Systems: ARM-A, AVR.  
 💡 Experience in Artificial Intelligence: Linear Regression, Neural Network.  
-⚡ Additional skills: GCC, LaTeX.  
+⚡ Additional skills: Yocto Project, LaTeX.  
 🔗 Email: [truongvx.2001@gmail.com](mailto:truongvx.2001@gmail.com)
 
 
