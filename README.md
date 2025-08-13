@@ -1,9 +1,10 @@
 👋 Hi, I’m @vxtruog  
-🎓 I’m a student passionate about Embedded Systems and Artificial Intelligence.  
-✨ Programing languages: C/C++, Assembly, Python.  
+🎓 I’m a student majoring in Control and Automation Engineering.  
+✨ Programing languages: C/C++, Assembly, Python, Ladder.  
 💡 Experience in Embedded Systems: ARM-A, AVR.  
-💡 Experience in Artificial Intelligence: Linear Regression, Neural Network.  
-⚡ Additional skills: Yocto Project, LaTeX.  
+💡 Experience in Industrial Automation Systems: PLC Programming for Mitsubishi and Siemens PLCs.  
+💡 Experience in IoT: Development of a Web-Based Interface for SCADA Systems.  
+⚡ Additional skills: Yocto Project, PostgreSQL, FastAPI.  
 🔗 Email: [truongvx.2001@gmail.com](mailto:truongvx.2001@gmail.com)
 
 
