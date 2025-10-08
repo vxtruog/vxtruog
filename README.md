@@ -2,7 +2,7 @@
 🎓 I’m a student majoring in Control and Automation Engineering.  
 ✨ Programing languages: C/C++, Assembly, Python, Ladder.  
 💡 Experience in Embedded Systems: ARM-A, AVR.  
-💡 Experience in Industrial Automation Systems: PLC Programming for Mitsubishi PLCs; familiar with industrial communication protocols such as Modbus RTU, Modbus TCP/IP, and HTTP.  
+💡 Experience in Industrial Automation Systems: familiar with industrial communication protocols such as Modbus RTU, Modbus TCP/IP, and HTTP.  
 💡 Experience in IoT: Development of a Web-Based Interface for SCADA Systems.  
 ⚡ Additional skills: Yocto Project, PostgreSQL, FastAPI, MX OPC Server DA.  
 🔗 Email: [truongvx.2001@gmail.com](mailto:truongvx.2001@gmail.com)
