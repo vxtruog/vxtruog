@@ -1,7 +1,7 @@
 👋 Hi, I’m @vxtruog  
 🎓 I’m a student majoring in Control and Automation Engineering.  
 ✨ Programing languages: C/C++, Python.  
-💡 Experience in Sensor Fusion: Implementing the Extended Kalman Filter (EKF) for multi-sensor fusion, integrating LiDAR, IMU, and GPS data.  
+💡 Implementing the Extended Kalman Filter (EKF) for multi-sensor fusion, integrating LiDAR, IMU, and GPS data.  
 💡 Experience in Embedded Systems: ARM-A, AVR.    
 💡 Experience with communication protocols such as UART and MQTT.  
 ⚡ Additional skills: ROS2, Yocto Project, PostgreSQL, FastAPI.  
