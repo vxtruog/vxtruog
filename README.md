@@ -3,7 +3,7 @@
 ✨ Programing languages: C/C++, Python.  
 💡 Experience in Sensor Fusion: Implementing the Extended Kalman Filter (EKF) for multi-sensor fusion, integrating LiDAR, IMU, and GPS data.  
 💡 Experience in Embedded Systems: ARM-A, AVR.    
-💡 Experience in IoT: MQTT protocol.  
+💡 Experience with communication protocols such as UART and MQTT.  
 ⚡ Additional skills: ROS2, Yocto Project, PostgreSQL, FastAPI.  
 🔗 Email: [truongvx.2001@gmail.com](mailto:truongvx.2001@gmail.com)
 
