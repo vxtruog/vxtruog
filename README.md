@@ -1,10 +1,10 @@
 👋 Hi, I’m @vxtruog  
 🎓 I’m a student majoring in Control and Automation Engineering.  
-✨ Programing languages: C/C++, Assembly, Python, Ladder.  
-💡 Experience in Embedded Systems: ARM-A, AVR.  
-💡 Experience in Industrial Automation Systems: familiar with industrial communication protocols such as Modbus RTU, Modbus TCP/IP, and HTTP.  
-💡 Experience in IoT: Development of a Web-Based Interface for SCADA Systems.  
-⚡ Additional skills: Yocto Project, PostgreSQL, FastAPI, MX OPC Server DA.  
+✨ Programing languages: C/C++, Python.  
+💡 Experience in Sensor Fusion: Implementing the Extended Kalman Filter (EKF) for multi-sensor fusion, integrating LiDAR, IMU, and GPS data.  
+💡 Experience in Embedded Systems: ARM-A, AVR.    
+💡 Experience in IoT: MQTT protocol.  
+⚡ Additional skills: ROS2, Yocto Project, PostgreSQL, FastAPI.  
 🔗 Email: [truongvx.2001@gmail.com](mailto:truongvx.2001@gmail.com)
 
 
