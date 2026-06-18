@@ -1,13 +1,18 @@
-👋 Hi, I’m @vxtruog  
+<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+👋 Hi, I’m @vxtruog.  
 🎓 I’m a student majoring in Control and Automation Engineering.  
-✨ Programing languages: C/C++, Python.  
-💡 Implementing the Extended Kalman Filter (EKF) for multi-sensor fusion, integrating LiDAR, IMU, and GPS data.  
-💡 Experience in Embedded Systems: ARM-A, AVR.    
+✨ Programing languages: C/C++.  
+💡 Implementing the Extended Kalman Filter (EKF) for multi-sensor fusion.  
+💡 Experience in Embedded Systems: ARM-A.    
 💡 Experience with communication protocols such as UART and MQTT.  
-⚡ Additional skills: ROS2, Yocto Project, PostgreSQL, FastAPI.  
+⚡ Additional skills: Yocto Project.  
 🔗 Email: [truongvx.2001@gmail.com](mailto:truongvx.2001@gmail.com)
 
+<p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+👋 こんにちは、ブー・スアン・チュオン です。  
+🎓 制御・自動化工学専攻の学生です。  
 <!--
 **vxtruog/vxtruog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
