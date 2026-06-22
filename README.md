@@ -1,7 +1,7 @@
 <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 👋 Hi, I’m @vxtruog.  
-🎓 I’m a student majoring in Control and Automation Engineering.  
+🎓 I’m a student majoring in Control and Automation Engineering. (K66-UET)  
 ✨ Programing languages: C/C++.  
 💡 Implementing the Extended Kalman Filter (EKF) for multi-sensor fusion.    
 ⚡ Additional skills: Yocto Project.  
