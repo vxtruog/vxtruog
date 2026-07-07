@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="150" src="www.gif" />
+</div>
 <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 👋 Hi, I’m @vxtruog.  
