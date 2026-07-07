@@ -5,7 +5,7 @@
 
 👋 _Hi, i’m @vxtruog, from K66-M-AT (UET) with love ❤️._  
 💻 _Programing languages: C/C++._  
-💡 _Interested in Operating Systems, Computer Architecture, and Robotics._    
+😄 _Interested in Operating Systems, Computer Architecture, and Robotics._    
 ⚡ _Additional skills: Socket Programming, Yocto Project._  
 🔗 _Email: [truongvx.2001@gmail.com](mailto:truongvx.2001@gmail.com)_
 
